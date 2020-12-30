@@ -1,0 +1,9 @@
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(159deg,#DE6262,#FFB88C);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color:lightblue;
+}
